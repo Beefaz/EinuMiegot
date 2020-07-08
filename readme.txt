@@ -1,2 +1,2 @@
-javascript search in api by letters typed with auto-advice labels.
+javascript search in api by letters typed with suggestion labels.
 api to front-end
